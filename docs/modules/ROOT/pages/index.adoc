@@ -1,3 +1,10 @@
-= About {site-url}
+= {page-component-title} 
 
-This website was generated using https://docs.antora.org[Antora].
+This website documents my other projects:
+
+* {site-url}[This site]
+
+* https://oberio.nz[Personal Blog (oberio.nz)^]
+** View xref:personal-site-docs::index.adoc[the docs here].
+
+IMPORTANT: This website is still a work-in-progress.
