@@ -4,7 +4,7 @@ antora:
 
 site:
   title: DocKo Docs
-  start_page: docko-metadocs::index.adoc
+  start_page: metadocs::index.adoc
   url: https://docs.docko.dev
     
 content:
