@@ -1,0 +1,6 @@
+name: docs-site
+title: 'Docs Site'
+version: 'alpha'
+
+nav:
+  - modules/ROOT/nav.adoc

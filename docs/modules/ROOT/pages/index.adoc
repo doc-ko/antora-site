@@ -1,0 +1,3 @@
+= About {site-url}
+
+This website was generated using https://docs.antora.org[Antora].
