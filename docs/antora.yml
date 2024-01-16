@@ -1,6 +1,6 @@
 name: metadocs
 title: "DocKo's Docs Site"
-version: 'alpha'
+version: '0.1'
 
 nav:
   - modules/ROOT/nav.adoc
