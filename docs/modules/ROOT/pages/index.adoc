@@ -5,6 +5,6 @@ This website documents my other projects:
 * {site-url}[This site]
 
 * https://docko.dev[Personal Blog (docko.dev)^]
-** View xref:personal-site-docs::index.adoc[the docs here].
+** View xref:personal-site::index.adoc[the docs here].
 
 IMPORTANT: This website is still a work-in-progress.
