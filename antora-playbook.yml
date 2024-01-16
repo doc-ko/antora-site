@@ -4,8 +4,8 @@ antora:
 
 site:
   title: DocKo Docs
-  start_page: docs-site::index.adoc
-  url: https://docko.dev
+  start_page: docko-metadocs::index.adoc
+  url: https://docs.docko.dev
     
 content:
   sources:
@@ -18,5 +18,4 @@ content:
 
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
+    url: ui-bundle.zip
